@@ -19,9 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Yufei, a Computer Science major at the [University of Washington](https://www.cs.washington.edu/). 
+Hello! I'm Yufei, a Computer Science major at the [University of Washington](https://www.cs.washington.edu/). I'm interested in software development, computional theory, and the intersections of CS and finace.
 
-At UW, I’m the Social Event Coordinator at [COM2](https://com2.cs.washington.edu/), the largest student organization in the Allen School. I'm also a web developer for the [College of Engineering](https://www.engr.washington.edu/).
+At UW, I’m the Social Event Coordinator at [COM2](https://com2.cs.washington.edu/), the largest student organization in the Paul G. Allen School of Computer Science & Engineering. I'm also a Web Developer for the [College of Engineering](https://www.engr.washington.edu/).
+
+Outside of coding, you can find me out in nature exploring new hikes and or camping with my family, learning new chess tactics, or creating my own recipies in the kitchen. 
   
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
