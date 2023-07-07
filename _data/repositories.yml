@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yfzhang19
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - yfzhang19/DNA-PatternRecognition
+  - yfzhang19/UCSD-TritonHacks-2021
+  - yfzhang19/deepracer_training
