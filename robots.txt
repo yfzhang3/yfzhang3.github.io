@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yufeizhang.com//sitemap.xml
+Sitemap: https://yfzhang19.github.io//sitemap.xml
