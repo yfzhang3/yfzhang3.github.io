@@ -106,7 +106,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Please reach out to me via email if any of this interests you!
+  Please reach out to me via <a href = "mailto: yfzhang3@cs.washington.edu">email</a> if any of this interests you!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
