@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Yufei, a Computer Science major at the [University of Washington](https://www.cs.washington.edu/). I'm interested in software development, computional theory, and the intersections of CS and finace.
+Hello! I'm Yufei, a Computer Science major at the [University of Washington](https://www.cs.washington.edu/). I'm interested in software development, computional theory, and the intersections of CS and the social sciences .
 
 At UW, I’m the Social Event Coordinator at [COM2](https://com2.cs.washington.edu/), the largest student organization in the Paul G. Allen School of Computer Science & Engineering. I'm also a Web Developer for the [College of Engineering](https://www.engr.washington.edu/).
 

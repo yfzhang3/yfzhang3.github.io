@@ -10,22 +10,23 @@
   type: time_table
   contents:
     - title: B.S. in Computer Science
-      institution: Paul G. Allen School of Computer Science & Engineering - University of Washington
+      institution: University of Washington - Paul G. Allen School of Computer Science & Engineering
       year: 2022-2025
       description:
         # - Description 1.
         - title: Relevant Coursework
           contents:
-            - 'CSE 311: Foundations of Computing I'
-            - 'CSE 331: Software Design & Implementation'
-            - 'CSE 390: Mathematics for Computation'
-            - 'CSE 391: System and Software Tools'
+            - Mathematics for Computation
+            - Software Design & Implementation
+            - System and Software Tools
+            - Linear Algebra
+            - Multivariable Calculus
 
 - title: Experience
   type: time_table
   contents:
     - title: Wed Developer
-      institution: College of Engineering, University of Washington, Seattle
+      institution: College of Engineering, University of Washington
       year: FEB 2023 - PRESENT
       # description:
       #   - Description 1.
