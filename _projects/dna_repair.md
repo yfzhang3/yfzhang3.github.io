@@ -24,7 +24,7 @@ Research Goal: In the lab, lasers are used to cut U2OS cells (from human bone ti
     Poster presented at the Biomedical Engineering Society Conference 2022
 </div>
 
-If you're intersted in a demonstration of the MATLAB app, go to the [full presentation](yfzhang3.github.io/projects/dna_repair_presentation/).
+If you're intersted in a demonstration of the MATLAB app, go to the [full presentation](/projects/dna_repair_presentation/).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
