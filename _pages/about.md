@@ -13,13 +13,14 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
+
 Hi, I'm Yufei! I'm a **BS/MS Computer Science** student at the [University of Washington](https://www.cs.washington.edu/) with a focus on **machine learning, natural language processing, and building high-performance systems for serving large language models**.
 
 Alongside my studies, I love to teach! I am a **teaching assistant** for **Machine Learning**, helping undergraduate and graduate students deepen their understanding of algorithms, optimization, and real-world applications.
 
-Outside of academics, I’m **chasing my next finish line** (three half marathons and counting), **hacking away at ideas that might one day become the next big thing**, **losing myself in novels** (Fredrik Backman somehow makes me laugh and cry on the same page), and **spending as much time as possible with puppies**, because they’re the best reminder not to take life too seriously.
+Outside of academics, I’m **chasing my next finish line** (three half marathons and counting), **hacking away at ideas that might one day become the next big thing**, **losing myself in novels** (Fredrik Backman somehow makes me laugh and cry on the same page), and **spending as much time as possible with my loved ones**, because they’re the best reminder of how truly precious life is.
