@@ -18,15 +18,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi, I'm Yufei! I'm a **BS/MS Computer Science** student at the [University of Washington](https://www.cs.washington.edu/) with a focus on **machine learning, natural language processing, and building high-performance systems for serving large language models**.
 
-Hello! I'm Yufei, a Computer Science major at the [University of Washington](https://www.cs.washington.edu/). I'm interested in machine learning, natural language processing, and the intersections between CS and the social sciences .
+Alongside my studies, I love to teach! I am a **teaching assistant** for **Machine Learning**, helping undergraduate and graduate students deepen their understanding of algorithms, optimization, and real-world applications.
 
-At UW, I’m the Social Event Coordinator at [COM2](https://com2.cs.washington.edu/), the largest student organization in the Paul G. Allen School of Computer Science & Engineering. I'm also a Web Developer for the [College of Engineering](https://www.engr.washington.edu/).
-
-Outside of coding, you can find me out in nature exploring new hikes, camping with my family, learning new guitar songs, or reading books (my favorite author is Fredrik Backman!). 
-  
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
-
-<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Outside of academics, I’m **chasing my next finish line** (three half marathons and counting), **hacking away at ideas that might one day become the next big thing**, **losing myself in novels** (Fredrik Backman somehow makes me laugh and cry on the same page), and **spending as much time as possible with puppies**, because they’re the best reminder not to take life too seriously.

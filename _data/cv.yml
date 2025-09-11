@@ -1,77 +1,78 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Yufei Zhang
-    - name: Languages
-      value: English, Chinese 
+
 
 - title: Education
   type: time_table
   contents:
-    - title: B.S. in Computer Science
+    - title: B.S./M.S. in Computer Science
       institution: University of Washington - Paul G. Allen School of Computer Science & Engineering
       year: 2022-2025
       description:
-        # - Description 1.
+        - title: Organizations
+          contents:
+            - Computing Community (Association of Computer Machinery @ University of Washington)
+            - National Center for Women & Information Technology (NCWIT)
         - title: Relevant Coursework
           contents:
-            - Mathematics for Computation
-            - Software Design & Implementation
-            - System and Software Tools
-            - Linear Algebra
-            - Multivariable Calculus
+            - Machine Learning, Deep Learning, Natural Language Processing (NLP), Systems for Machine Learning, Distributed Systems, Systems Programming, Quantum Computation, Probability & Statistics, Data Structures & Algorithms, Hardware-Software Interface, Security, Quantitative Statistics, Advanced Linear Algebra, Multivariable Calculus
 
 - title: Experience
   type: time_table
   contents:
+    - title: Software Engineer Intern, Productivity Engineering
+      institution: LinkedIn
+      year: Jun 2025 - Sep 2025
+      description:
+        - "Deployed to production a cloud cost optimization dashboard, becoming the company-wide entry point for Azure efficiency insights across $100M+ annual spend."
+        - "Built backend services in Python/MySQL to fetch real-time Microsoft Cloudfit efficiency recommendations, optimized with multi-table joins, caching, and schema validation."
+        - "Developed frontend features in TypeScript/React with Grafana-powered historical spend trends and actionable cost-saving recommendations."
+        - "Integrated frontend and backend via gRPC, eliminating REST middleware, reducing latency, and establishing a scalable pattern for future tools."
+
+    - title: Teaching Assistant, CSE 446/546 Machine Learning
+      institution: Paul G. Allen School of Computer Science & Engineering, University of Washington
+      year: Dec 2024 - Present
+      description:
+        - "Supported a joint undergraduate/graduate course on machine learning algorithms and applications, covering supervised/unsupervised learning, regression, classification, deep learning, kernel methods, and optimization."
+        - "Taught 4 sections (35 students each) across multiple quarters; designed and delivered content with annotated slides, live-coded demos, and original problem sets in Python, NumPy, Scikit-learn, and PyTorch."
+        - "Led weekly 50-minute recitations and office hours and collaborated with faculty and TAs on grading, exam design, and assignment development."
+
+    - title: Software Development Engineer Intern, Selection and Catalog Systems
+      institution: Amazon, Seattle, WA
+      year: Jun 2024 - Sep 2024
+      description:
+        - "Developed a FilterAnalyticsTool pipeline using AWS CDK to provision infrastructure with S3, DynamoDB, and SQS for managing duplicate product listings, logs, and reports."
+        - "Implemented a Java Lambda function to process product pairs and generate validation logs, and a Python Lambda function for analytics and Jupyter-based reporting."
+        - "Automated duplicate listing validation with an SQS Queue and QueueProcessor, reducing manual on-call investigation time by 80%."
+        - "Improved duplicate product merge accuracy by 15% and reduced data errors by 50% through validation checks and automated analytics generation."
+
+    - title: Student Researcher, Neural Decoding Models
+      institution: Neural Systems Laboratory, UW CSE
+      year: Dec 2023 - May 2025
+      description:
+        - "Contributed to scaling law research for neural decoding models from millions to billions of parameters using AutoLFADS and Neural Data Transformers (NDT 1/2)."
+        - "Preprocessed large-scale datasets (e.g., IBL) and built training pipelines in PyTorch with Hydra."
+        - "Evaluated model generalization across scales to guide architectural and training decisions."
+
     - title: Full-Stack Web Developer
-      institution: College of Engineering, University of Washington
-      year: FEB 2023 - PRESENT
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
+      institution: University of Washington, College of Engineering, Seattle, WA
+      year: Feb 2023 - Dec 2023
+      description:
+        - "Developed a scholarship app with PHP, Laravel, and Filament, serving 8,000+ visitors and increasing engagement."
+        - "Applied Agile practices to deliver features on time, improving efficiency by 20%."
+        - "Enhanced database performance by optimizing MySQL queries and improving responsive design."
 
-    - title: Social Event Coordinator 
-      institution: Computing Community @ UW
-      year: JUN 2023 - PRESENT
-    - title: Associate Officer
-      institution: Computing Community @ UW
-      year: SEP 2022 - MAY 2023
-      # description:
-      #   - Description 1.
-      #   - Description 2.
+    - title: Data Analyst Intern
+      institution: Axos Bank, San Diego, CA
+      year: Jun 2022 - Aug 2023
+      description:
+        - "Automated financial validation with Python/Pandas, saving 40+ hours per month and improving accuracy."
+        - "Presented AI integration strategies with Microsoft Copilot to executives, improving operational efficiency."
+        - "Built SQL queries and interactive Tableau dashboards, enabling data-driven decisions."
+        - "Earned Best Capstone Project Award for impactful contributions."
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023
-      items: 
-        - Dean's List
-    - year: 2022
-      items: 
-        - National Honorable Mention issued by <a href="https://ncwit.org/">National Center for Women & Information Technology (NCWIT)</a> 
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Software Developer & Product Owner Intern
+      institution: San Diego Supercomputer Center, San Diego, CA
+      year: Jun 2021 - Sep 2021
+      description:
+        - "Led an 8-person team developing a fitness social app with Django, React, MySQL, gaining 70+ active users."
+        - "Ran daily standups, code reviews, and sprint reviews for 100+ interns."
+        - "Implemented instant messaging and live updates, boosting user engagement."
