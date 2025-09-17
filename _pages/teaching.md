@@ -31,4 +31,4 @@ Practical introduction to machine learning. Covers regression, classification, c
 
 **AU 2023 — [CSE 190B: Freshman Direct-Admit Seminar](https://sites.google.com/cs.washington.edu/cse190bautumn2023)**
 
-**Description:** Seminar for Direct-Admit first-year CSE majors.
+Seminar for Direct-Admit first-year CSE majors.
