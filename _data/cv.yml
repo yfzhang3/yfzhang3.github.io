@@ -1,78 +1,109 @@
-
-
 - title: Education
   type: time_table
   contents:
-    - title: B.S./M.S. in Computer Science
-      institution: University of Washington - Paul G. Allen School of Computer Science & Engineering
-      year: 2022-2025
-      description:
-        - title: Organizations
-          contents:
-            - Computing Community (Association of Computer Machinery @ University of Washington)
-            - National Center for Women & Information Technology (NCWIT)
-        - title: Relevant Coursework
-          contents:
-            - Machine Learning, Deep Learning, Natural Language Processing (NLP), Systems for Machine Learning, Distributed Systems, Systems Programming, Quantum Computation, Probability & Statistics, Data Structures & Algorithms, Hardware-Software Interface, Security, Quantitative Statistics, Advanced Linear Algebra, Multivariable Calculus
+    - title: Master of Science in Computer Science
+      institution: University of Washington — Paul G. Allen School of Computer Science & Engineering
+      year: Expected Jun 2026
+    - title: Bachelor of Science in Computer Science
+      institution: University of Washington — Paul G. Allen School of Computer Science & Engineering
+      year: Expected Dec 2025
 
+    - title: 
+      year: Coursework
+      description:
+        - "Machine Learning, Deep Learning, Natural Language Processing (NLP)"
+        - "Systems for Machine Learning, Distributed Systems, Systems Programming"
+        - "Quantum Computation, Probability & Statistics"
+        - "Data Structures & Algorithms, Hardware–Software Interface, Security"
+        - "Quantitative Statistics, Advanced Linear Algebra, Multivariable Calculus"
+
+    - title: 
+      description:
+        - "Computing Community (Association of Computer Machinery @ UW)"
+        - "National Center for Women & Information Technology (NCWIT)"
+      year: Organizations
+
+    
 - title: Experience
   type: time_table
   contents:
+    - title: Teaching Assistant, Machine Learning (CSE 446/546; CSE 416)
+      institution: Paul G. Allen School of Computer Science & Engineering, University of Washington
+      year: Jan 2024 - Present
+      description:
+        - "Led weekly recitations, held office hours, and graded for both an introductory ML course (CSE 416) and an advanced graduate ML course (CSE 446/546)."
+        - "CSE 446/546: maximum likelihood, linear models, kernel methods, gradient-based optimization, deep networks (CNNs, RNNs, attention), and unsupervised learning (PCA, GMMs, non-parametric)."
+        - "CSE 416: regression/regularization, decision trees, ensemble methods, PyTorch labs, recommender systems."
+
     - title: Software Engineer Intern, Productivity Engineering
       institution: LinkedIn
       year: Jun 2025 - Sep 2025
       description:
-        - "Deployed to production a cloud cost optimization dashboard, becoming the company-wide entry point for Azure efficiency insights across $100M+ annual spend."
-        - "Built backend services in Python/MySQL to fetch real-time Microsoft Cloudfit efficiency recommendations, optimized with multi-table joins, caching, and schema validation."
-        - "Developed frontend features in TypeScript/React with Grafana-powered historical spend trends and actionable cost-saving recommendations."
-        - "Integrated frontend and backend via gRPC, eliminating REST middleware, reducing latency, and establishing a scalable pattern for future tools."
+        - "Deployed an Azure cost-optimization dashboard used company-wide to monitor $100M+ annual spend."
+        - "Built Python/MySQL backend to fetch real-time Microsoft Cloudfit efficiency recommendations and TypeScript/React + Grafana frontend for spend trends."
+        - "Integrated services via gRPC, eliminating REST middleware and reducing latency while creating a scalable pattern for future tools."
 
-    - title: Teaching Assistant, CSE 446/546 Machine Learning
-      institution: Paul G. Allen School of Computer Science & Engineering, University of Washington
-      year: Dec 2024 - Present
-      description:
-        - "Supported a joint undergraduate/graduate course on machine learning algorithms and applications, covering supervised/unsupervised learning, regression, classification, deep learning, kernel methods, and optimization."
-        - "Taught 4 sections (35 students each) across multiple quarters; designed and delivered content with annotated slides, live-coded demos, and original problem sets in Python, NumPy, Scikit-learn, and PyTorch."
-        - "Led weekly 50-minute recitations and office hours and collaborated with faculty and TAs on grading, exam design, and assignment development."
-
-    - title: Software Development Engineer Intern, Selection and Catalog Systems
-      institution: Amazon, Seattle, WA
+    - title: Software Development Engineer Intern, Selection & Catalog Systems
+      institution: Amazon
       year: Jun 2024 - Sep 2024
       description:
-        - "Developed a FilterAnalyticsTool pipeline using AWS CDK to provision infrastructure with S3, DynamoDB, and SQS for managing duplicate product listings, logs, and reports."
-        - "Implemented a Java Lambda function to process product pairs and generate validation logs, and a Python Lambda function for analytics and Jupyter-based reporting."
-        - "Automated duplicate listing validation with an SQS Queue and QueueProcessor, reducing manual on-call investigation time by 80%."
-        - "Improved duplicate product merge accuracy by 15% and reduced data errors by 50% through validation checks and automated analytics generation."
-
-    - title: Student Researcher, Neural Decoding Models
-      institution: Neural Systems Laboratory, UW CSE
-      year: Dec 2023 - May 2025
-      description:
-        - "Contributed to scaling law research for neural decoding models from millions to billions of parameters using AutoLFADS and Neural Data Transformers (NDT 1/2)."
-        - "Preprocessed large-scale datasets (e.g., IBL) and built training pipelines in PyTorch with Hydra."
-        - "Evaluated model generalization across scales to guide architectural and training decisions."
+        - "Automated duplicate-product validation, cutting manual on-call work by 80% and improving merge accuracy by 15%."
+        - "Developed FilterAnalyticsTool pipeline with AWS CDK, provisioning S3, DynamoDB, and SQS for logs and reports."
+        - "Created Java Lambda for product-pair validation logs and Python Lambda for analytics and Jupyter-based reporting."
 
     - title: Full-Stack Web Developer
-      institution: University of Washington, College of Engineering, Seattle, WA
+      institution: University of Washington, College of Engineering
       year: Feb 2023 - Dec 2023
       description:
-        - "Developed a scholarship app with PHP, Laravel, and Filament, serving 8,000+ visitors and increasing engagement."
-        - "Applied Agile practices to deliver features on time, improving efficiency by 20%."
-        - "Enhanced database performance by optimizing MySQL queries and improving responsive design."
+        - "Developed a scholarship application platform in PHP/Laravel/Filament serving 8,000+ visitors."
 
-    - title: Data Analyst Intern
-      institution: Axos Bank, San Diego, CA
+    - title: Data Analyst Intern, Technical Accounting
+      institution: Axos Bank
       year: Jun 2022 - Aug 2023
       description:
-        - "Automated financial validation with Python/Pandas, saving 40+ hours per month and improving accuracy."
-        - "Presented AI integration strategies with Microsoft Copilot to executives, improving operational efficiency."
-        - "Built SQL queries and interactive Tableau dashboards, enabling data-driven decisions."
-        - "Earned Best Capstone Project Award for impactful contributions."
+        - "Automated transfer of Oracle financial data to Tableau using Microsoft Power Automate, replacing a manual daily download and refresh."
+        - "Built scheduled and cloud flows that save emailed Oracle reports to OneDrive and auto-update Tableau data sources."
+        - "Saved 40+ staff hours per month and improved accuracy of recurring financial dashboards."
 
     - title: Software Developer & Product Owner Intern
-      institution: San Diego Supercomputer Center, San Diego, CA
+      institution: San Diego Supercomputer Center
       year: Jun 2021 - Sep 2021
       description:
-        - "Led an 8-person team developing a fitness social app with Django, React, MySQL, gaining 70+ active users."
-        - "Ran daily standups, code reviews, and sprint reviews for 100+ interns."
-        - "Implemented instant messaging and live updates, boosting user engagement."
+        - "Led an 8-person team building a fitness social app with Django, React and MySQL, reaching 70+ active users."
+        - "Ran daily stand-ups, code reviews and presented to 100+ interns."
+        - "Implemented instant messaging and live updates to boost user engagement."
+
+- title: Research
+  type: time_table
+  contents:
+    - title: Student Researcher, Large-Scale ML Models & Neural Data Transformers
+      institution: Neural Systems Laboratory, UW CSE
+      year: Jan 2025 - May 2025
+      description:
+        - "Built PyTorch data pipeline for large-scale International Brain Lab spiking datasets; wrote custom dataloaders for multi-session tensors and implemented multi-mask self-supervised masking schemes."
+        - "Implemented and tuned Neural Data Transformer (NDT) models with causal attention and Poisson log-likelihood objectives; ran large-scale training and hyperparameter sweeps on A40/L40 GPUs."
+
+    - title: Investigating Error Patterns and Model Interpretability for Medical Image Classification
+      institution: Paul G. Allen School of Computer Science & Engineering
+      year: Sep 2024 – Dec 2024
+      description:
+        - "Trained and evaluated CNN, ResNet-50, and EVA-CLIP models on the OrganCMNIST abdominal CT dataset."
+        - "Applied Grad-CAM, LIME, and occlusion analysis to identify recurring misclassification patterns and explain model decision rationale."
+
+- title: Leadership
+  type: time_table
+  contents:
+    - title: Executive Officer — Social Event Coordinator
+      institution: Computing Community @ UW (Association for Computing Machinery)
+      year: Sep 2022 - Sep 2024
+      description:
+        - "Organized large-scale technical/social events for 1,000+ students; managed timelines, tasks, and budgets for the Allen School’s largest student org."
+        - "Led department-wide events (Fall Fest, Winter Ball) with 500+ attendees; chaired committees for research nights, socials, and mentorship programs."
+
+    - title: Founder & CEO
+      institution: STEM to Success, National Nonprofit Organization
+      year: May 2020 - Aug 2022
+      description:
+        - "Founded and led Java and Scratch coding camps, impacting 200+ students and raising $2,000+ for the Boys & Girls Club through fundraising efforts."
+        - "Orchestrated STEM literacy webinars, attracting 70+ attendees and featuring presentations from industry professionals."
+        - "Recognized in the Del Mar Times for impactful community contributions."
