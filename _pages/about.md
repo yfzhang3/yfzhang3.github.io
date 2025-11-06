@@ -18,7 +18,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Hi, I'm Yufei! I am a BS/MS Computer Science student at the [University of Washington](https://www.cs.washington.edu/). I'm incredibly fortunate to be working on core machine learning and natural language processing problems with [Scott Geng](https://www.scottgeng.com/) and [Prof. Pang Wei Koh](https://koh.pw/). I'm also building efficient ML systems for serving large language models with [Megan Frisella](https://homes.cs.washington.edu/~mfris/) in the [SyFI Lab](https://syfi.cs.washington.edu/). 
+Hi, I'm Yufei! I am a BS/MS Computer Science student at the [University of Washington](https://www.cs.washington.edu/). I'm incredibly fortunate to be working on core machine learning and natural language processing problems with [Scott Geng](https://www.scottgeng.com/) and [Prof. Pang Wei Koh](https://koh.pw/). I'm also collaborating on distributed training with [Megan Frisella](https://homes.cs.washington.edu/~mfris/) in the [SyFI Lab](https://syfi.cs.washington.edu/).
 
 Previously, I’ve worked on large-scale systems and infrastructure projects as a Software Engineering Intern at [LinkedIn](https://www.linkedin.com/in/yfzhang3) and [Amazon](https://www.amazon.com/).
 
