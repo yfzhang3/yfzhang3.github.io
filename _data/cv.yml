@@ -11,11 +11,10 @@
     - title: 
       year: Coursework
       description:
-        - "Machine Learning, Deep Learning, Natural Language Processing (NLP)"
-        - "Systems for Machine Learning, Distributed Systems, Systems Programming"
-        - "Quantum Computation, Probability & Statistics"
-        - "Data Structures & Algorithms, Hardware–Software Interface, Security"
-        - "Quantitative Statistics, Advanced Linear Algebra, Multivariable Calculus"
+        - "<strong>ML:</strong> Machine Learning, Deep Learning, Natural Language Processing, Systems for Machine Learning"
+        - "<strong>Systems:</strong> Distributed Systems, Systems Programming, Hardware–Software Interface"
+        - "<strong>Math:</strong> Algorithms, Quantitative Statistics, Advanced Linear Algebra, Quantum Computation, Probability & Statistics,  Multivariable Calculus"
+        - "<strong>CS:</strong> Security, Data Structures & Algorithms"
 
     - title: 
       description:
@@ -27,13 +26,20 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Teaching Assistant, Machine Learning (CSE 446/546; CSE 416)
+  
+    - title: Graduate Research Assistant, Advised by Prof. Pang Wei Koh
       institution: Paul G. Allen School of Computer Science & Engineering, University of Washington
       year: Jan 2024 - Present
       description:
-        - "Led weekly recitations, held office hours, and graded for both an introductory ML course (CSE 416) and an advanced graduate ML course (CSE 446/546)."
-        - "CSE 446/546: maximum likelihood, linear models, kernel methods, gradient-based optimization, deep networks (CNNs, RNNs, attention), and unsupervised learning (PCA, GMMs, non-parametric)."
-        - "CSE 416: regression/regularization, decision trees, ensemble methods, PyTorch labs, recommender systems."
+        - "Conducting research on inference-time diversity of large languages models."
+
+    - title: Graduate Teaching Assistant, Machine Learning (CSE 446/546; CSE 416)
+      institution: Paul G. Allen School of Computer Science & Engineering, University of Washington
+      year: Jan 2024 - Present
+      description:
+        - "Led weekly recitations, held office hours, and graded for ML courses (CSE 446/546, CSE 416)."
+        - "<strong>CSE 446/546:</strong> maximum likelihood, linear models, kernel methods, gradient-based optimization, deep networks (CNNs, RNNs, attention), and unsupervised learning (PCA, GMMs, non-parametric)."
+        - "<strong>CSE 416:</strong> regression/regularization, decision trees, ensemble methods, PyTorch labs, recommender systems."
 
     - title: Software Engineer Intern, Productivity Engineering
       institution: LinkedIn
