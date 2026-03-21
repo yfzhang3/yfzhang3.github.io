@@ -8,15 +8,17 @@ nav_order: 5
 ---
 **`2025–2026:`**
 
-**WI 2026 - [CSE 446/546: Machine Learning](https://courses.cs.washington.edu/courses/cse446/26wi/)**
+**WI 2026 — [CSE 446/546: Machine Learning](https://courses.cs.washington.edu/courses/cse446/26wi/)**
 
-* Check out the resources I've created for recitation sections! (work in progress)
+* Here are some resources I've created for recitation sections!
   * [Python, Probability Fundamentals, Linear Algebra](https://courses.cs.washington.edu/courses/cse446/26wi/sections/01/yufei's-notes-section01.pdf)
   * [Data Normalization and Linear Algebra](https://courses.cs.washington.edu/courses/cse446/26wi/sections/02/yufei's-notes-section02.pdf)
   * [Vector Calculus, Bias and Estimation](https://courses.cs.washington.edu/courses/cse446/26wi/sections/03/yufei's-notes-section03.pdf)
-  * [GD, SGD, Mini-Batch GD](https://youtu.be/Dr_cgfZKO28) (video)
+  * [GD, SGD, Mini-Batch GD](https://youtu.be/Dr_cgfZKO28)
+  * [Kernels, PyTorch](https://courses.cs.washington.edu/courses/cse446/26wi/sections/07/yufei's-notes-section07.pdf)
+  * [PCA, SVD, Convolutional Neural Networks](https://courses.cs.washington.edu/courses/cse446/26wi/sections/09/yufei's-notes-section09.pdf)
 
-**AU 2025 - [CSE 446/546: Machine Learning
+**AU 2025 — [CSE 446/546: Machine Learning
 ](https://courses.cs.washington.edu/courses/cse446/25au/)**
 
 ---
