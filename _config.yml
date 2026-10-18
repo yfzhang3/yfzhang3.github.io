@@ -8,12 +8,13 @@ middle_name:
 last_name:
 email: yfzhang3@cs.washington.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Yufei Zhang is a University of Washington computer science graduate student working on language models, generation diversity, and AI systems.
 footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Yufei Zhang, machine learning, natural language processing, large language models, AI systems, University of Washington
+footer_name: Yufei Zhang
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔆 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -45,14 +46,14 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -73,7 +74,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: yfzhang3
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: _yufeizhang
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: yfzhang3
 telegram_username: # your Telegram user name
@@ -106,7 +107,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Please reach out to me via <a href = "mailto: yfzhang3@cs.washington.edu">email</a> if any of this interests you!
+  Please reach out to me via <a href="mailto:yfzhang819@gmail.com">email</a> if any of this interests you!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -271,8 +272,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zhang]
+  first_name: [Yufei]
 
   style: apa
   locale: en

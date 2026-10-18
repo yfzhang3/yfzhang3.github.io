@@ -2,11 +2,10 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yufei-profile-user-crop.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
@@ -15,21 +14,17 @@ profile:
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
-Hi, I'm Yufei! I am a MS Computer Science student at the [University of Washington](https://www.cs.washington.edu/). I'm incredibly fortunate to be working with [Scott Geng](https://www.scottgeng.com/) and [Prof. Pang Wei Koh](https://koh.pw/) on machine learning and natural language problems, specifically post-training, reinforcement learning, and language model output diversity.
+Hello, I'm Yufei! I am an MS Computer Science student at the [University of Washington](https://www.cs.washington.edu/), where I also completed my BS in Computer Science in 2025.
 
-I've also collaborated on distributed training for machine learning models with [Megan Frisella](https://homes.cs.washington.edu/~mfris/) in the [SyFI Lab](https://syfi.cs.washington.edu/).
+I'm incredibly fortunate to work with [Scott Geng](https://www.scottgeng.com/) and [Prof. Pang Wei Koh](https://koh.pw/) in the UW NLP Group on machine learning and natural language processing. Check out our recent work, [Gacha Decoding](https://arxiv.org/abs/2610.01382)!
 
-This summer, I'll be interning at [LinkedIn](https://www.linkedin.com/in/yfzhang3) as an AI/ML Engineer within CoreAI. Previously, I’ve worked on large-scale systems and infrastructure projects as a Software Engineering Intern at [LinkedIn](https://www.linkedin.com/in/yfzhang3) and [Amazon](https://www.amazon.com/).
+In summer 2026, I was a Machine Learning Engineer Intern at [LinkedIn Core AI](https://www.linkedin.com/in/yfzhang3), where I built a dynamic working-memory layer for AI agents and evaluated long-context memory systems. Previously, I worked on large-scale systems and infrastructure at [LinkedIn](https://www.linkedin.com/in/yfzhang3) and [Amazon](https://www.amazon.com/).
 
-Alongside my studies, I love to teach! I am a graduate teaching assistant for [Machine Learning](https://courses.cs.washington.edu/courses/cse446/25au/), where I help students deepen their understanding of algorithms, optimization, and real-world applications.
+Alongside my studies, I am the head teaching assistant for machine learning at UW. See [teaching](/teaching/) for more details.
 
-Outside of academics, I like to stay active and curious:
-
-* Running half marathons (3 so far)
-* Training for an Ironman 70.3
-* Reading (My favorite author is Fredrik Backman! :))
+Outside of academics, I love endurance sports! Depending on the season, you might find me running outside or cycling and swimming indoors. I also like reading on my Kindle and making (and eating!) homemade poke and nigiri.
 
 Most importantly, I always find time to spend with my loved ones, who remind me of how truly precious life is.

@@ -2,61 +2,83 @@
   type: time_table
   contents:
     - title: Master of Science in Computer Science
-      institution: University of Washington — Paul G. Allen School of Computer Science & Engineering
-      year: Expected Dec 2026
+      institution: University of Washington - Paul G. Allen School of Computer Science & Engineering
+      year: Jan 2026 - Present
     - title: Bachelor of Science in Computer Science
-      institution: University of Washington — Paul G. Allen School of Computer Science & Engineering
-      year: Expected Dec 2025
+      institution: University of Washington - Paul G. Allen School of Computer Science & Engineering
+      year: Sep 2022 - Dec 2025
 
-    - title: 
+    - title:
       year: Coursework
       description:
         - "<strong>ML:</strong> Machine Learning, Deep Learning, Natural Language Processing, Systems for Machine Learning"
-        - "<strong>Systems:</strong> Distributed Systems, Systems Programming, Hardware–Software Interface"
-        - "<strong>Math:</strong> Algorithms, Quantitative Statistics, Advanced Linear Algebra, Quantum Computation, Probability & Statistics,  Multivariable Calculus"
+        - "<strong>Systems:</strong> Distributed Systems, Systems Programming, Hardware-Software Interface"
+        - "<strong>Math:</strong> Algorithms, Quantitative Statistics, Advanced Linear Algebra, Quantum Computation, Probability & Statistics, Multivariable Calculus"
         - "<strong>CS:</strong> Security, Data Structures & Algorithms"
 
-    - title: 
+- title: Publications
+  type: time_table
+  contents:
+    - title: '<a href="https://arxiv.org/abs/2610.01382"><em>Gacha Decoding: Eliciting Diverse Generations Through Instruction Following</em></a>'
+      institution: Scott Geng, <strong>Yufei Zhang</strong>, Joseph Lee, Jerry Li, Marjan Ghazvininejad, Pang Wei Koh - arXiv:2610.01382
+      year: "2026"
       description:
-        - "Computing Community (Association of Computer Machinery @ UW)"
-        - "National Center for Women & Information Technology (NCWIT)"
-      year: Organizations
+        - "Introduces an inference-time method that treats generation diversity as instruction following and pairs an LLM with an external random-number generator to surface distinct response modes."
 
-    
 - title: Experience
   type: time_table
   contents:
-  
-    - title: Graduate Research Assistant, Advised by Prof. Pang Wei Koh
-      institution: Paul G. Allen School of Computer Science & Engineering, University of Washington
-      year: Jan 2024 - Present
+    - title: Machine Learning Engineer Intern, AI Agent Memory
+      institution: LinkedIn Core AI
+      year: Jun 2026 - Sep 2026
       description:
-        - "Conducting research on inference-time diversity of large languages models."
+        - "Built a dynamic working-memory layer for LinkedIn's agents: a streaming segment-compact-route pipeline that keeps long, multi-session conversations inside a fixed context budget."
+        - "Engineered a hybrid lexical and embedding router, raising adversarial routing accuracy from 63% to 86% and cutting memory fragmentation from 29% to 10%."
+        - "Outperformed Mem0, A-MEM, and MemStream on LongMemEval, preserving 88.2% recall with 35% of the raw-context tokens."
+        - "Ran Qwen3-14B evaluations with an LLM judge, improving judged answer quality from 0.75 to 0.95 on production threads."
 
-    - title: Graduate Teaching Assistant, Machine Learning (CSE 446/546; CSE 416)
+    - title: Machine Learning Research Assistant, Large Language Models
+      institution: Koh Lab, UW NLP Group - Advised by Prof. Pang Wei Koh
+      year: Oct 2025 - Present
+      description:
+        - "Second author of <em>Gacha Decoding</em>, an inference-time method for eliciting diverse language model generations through instruction following."
+        - "Improved diversity at equal quality by up to 2.4x Vendi over the next-best method and used 11x fewer samples to reach the same number of high-quality modes."
+        - "Built an LLM-judge clustering pipeline and axis-specific Label Vendi metrics; evaluated eight models across chat and creative writing with vLLM on UW's Hyak cluster."
+
+    - title: Head Teaching Assistant, Machine Learning (CSE 446/546; CSE 416)
       institution: Paul G. Allen School of Computer Science & Engineering, University of Washington
       year: Jan 2024 - Present
       description:
-        - "Led weekly recitations, held office hours, and graded for ML courses (CSE 446/546, CSE 416)."
-        - "<strong>CSE 446/546:</strong> maximum likelihood, linear models, kernel methods, gradient-based optimization, deep networks (CNNs, RNNs, attention), and unsupervised learning (PCA, GMMs, non-parametric)."
-        - "<strong>CSE 416:</strong> regression/regularization, decision trees, ensemble methods, PyTorch labs, recommender systems."
+        - "Lead weekly recitations, hold office hours, and grade assignments for introductory and advanced undergraduate/graduate machine learning courses."
+        - "<strong>CSE 446/546:</strong> maximum likelihood, linear models, kernel methods, optimization, deep networks, and unsupervised learning."
+        - "<strong>CSE 416:</strong> regression, regularization, decision trees, ensemble methods, PyTorch, and recommender systems."
 
     - title: Software Engineer Intern, Productivity Engineering
       institution: LinkedIn
       year: Jun 2025 - Sep 2025
       description:
-        - "Deployed an Azure cost-optimization dashboard used company-wide to monitor $100M+ annual spend."
-        - "Built Python/MySQL backend to fetch real-time Microsoft Cloudfit efficiency recommendations and TypeScript/React + Grafana frontend for spend trends."
-        - "Integrated services via gRPC, eliminating REST middleware and reducing latency while creating a scalable pattern for future tools."
+        - "Deployed a cloud cost-optimization dashboard that became the company-wide entry point for Azure efficiency insights across $100M+ in annual spend."
+        - "Built Python/MySQL backend services and TypeScript/React frontend features with Grafana-powered trends and recommendations."
+        - "Integrated frontend and backend through gRPC, reducing latency and creating a scalable pattern for future tools."
 
-    - title: Software Development Engineer Intern, Selection & Catalog Systems
+    - title: Software Development Engineer Intern, Selection and Catalog Systems
       institution: Amazon
       year: Jun 2024 - Sep 2024
       description:
-        - "Automated duplicate-product validation, cutting manual on-call work by 80% and improving merge accuracy by 15%."
-        - "Developed FilterAnalyticsTool pipeline with AWS CDK, provisioning S3, DynamoDB, and SQS for logs and reports."
-        - "Created Java Lambda for product-pair validation logs and Python Lambda for analytics and Jupyter-based reporting."
+        - "Built an AWS CDK pipeline with S3, DynamoDB, and SQS for duplicate-product listings, logs, and reports."
+        - "Implemented Java and Python Lambda functions for validation, analytics, and Jupyter-based reporting."
+        - "Reduced manual on-call investigation time by 80%, improved product-merge accuracy by 15%, and reduced data errors by 50%."
 
+    - title: Machine Learning Student Researcher, Neural Data Transformers
+      institution: Neural Systems Laboratory, UW CSE
+      year: Jan 2025 - May 2025
+      description:
+        - "Built a PyTorch pipeline for large-scale International Brain Lab spiking datasets, including multi-session dataloaders and multi-mask self-supervised masking."
+        - "Finetuned Neural Data Transformer models and ran experiments and hyperparameter sweeps on GPUs."
+
+- title: Additional Experience
+  type: time_table
+  contents:
     - title: Full-Stack Web Developer
       institution: University of Washington, College of Engineering
       year: Feb 2023 - Dec 2023
@@ -67,49 +89,34 @@
       institution: Axos Bank
       year: Jun 2022 - Aug 2023
       description:
-        - "Automated transfer of Oracle financial data to Tableau using Microsoft Power Automate, replacing a manual daily download and refresh."
-        - "Built scheduled and cloud flows that save emailed Oracle reports to OneDrive and auto-update Tableau data sources."
-        - "Saved 40+ staff hours per month and improved accuracy of recurring financial dashboards."
+        - "Automated Oracle-to-Tableau financial-data workflows with Microsoft Power Automate, saving 40+ staff hours per month."
 
     - title: Software Developer & Product Owner Intern
       institution: San Diego Supercomputer Center
       year: Jun 2021 - Sep 2021
       description:
-        - "Led an 8-person team building a fitness social app with Django, React and MySQL, reaching 70+ active users."
-        - "Ran daily stand-ups, code reviews and presented to 100+ interns."
-        - "Implemented instant messaging and live updates to boost user engagement."
-
-- title: Research
-  type: time_table
-  contents:
-    - title: Student Researcher, Large-Scale ML Models & Neural Data Transformers
-      institution: Neural Systems Laboratory, UW CSE
-      year: Jan 2025 - May 2025
-      description:
-        - "Built PyTorch data pipeline for large-scale International Brain Lab spiking datasets; wrote custom dataloaders for multi-session tensors and implemented multi-mask self-supervised masking schemes."
-        - "Implemented and tuned Neural Data Transformer (NDT) models with causal attention and Poisson log-likelihood objectives; ran large-scale training and hyperparameter sweeps on A40/L40 GPUs."
-
-    - title: Investigating Error Patterns and Model Interpretability for Medical Image Classification
-      institution: Paul G. Allen School of Computer Science & Engineering
-      year: Sep 2024 – Dec 2024
-      description:
-        - "Trained and evaluated CNN, ResNet-50, and EVA-CLIP models on the OrganCMNIST abdominal CT dataset."
-        - "Applied Grad-CAM, LIME, and occlusion analysis to identify recurring misclassification patterns and explain model decision rationale."
+        - "Led an eight-person team building a Django, React, and MySQL fitness social app used by 70+ active users."
 
 - title: Leadership
   type: time_table
   contents:
-    - title: Executive Officer — Social Event Coordinator
-      institution: Computing Community @ UW (Association for Computing Machinery)
+    - title: Executive Officer - Social Event Coordinator
+      institution: Computing Community (ACM) @ UW
       year: Sep 2022 - Sep 2024
       description:
-        - "Organized large-scale technical/social events for 1,000+ students; managed timelines, tasks, and budgets for the Allen School’s largest student org."
-        - "Led department-wide events (Fall Fest, Winter Ball) with 500+ attendees; chaired committees for research nights, socials, and mentorship programs."
+        - "Organized large-scale technical and social events for 1,000+ students, coordinating timelines, tasks, and budgets for the Allen School's largest student organization."
 
     - title: Founder & CEO
       institution: STEM to Success, National Nonprofit Organization
       year: May 2020 - Aug 2022
       description:
-        - "Founded and led Java and Scratch coding camps, impacting 200+ students and raising $2,000+ for the Boys & Girls Club through fundraising efforts."
-        - "Orchestrated STEM literacy webinars, attracting 70+ attendees and featuring presentations from industry professionals."
-        - "Recognized in the Del Mar Times for impactful community contributions."
+        - "Founded Java and Scratch coding camps that reached 200+ students and raised $2,000+ for the Boys & Girls Club."
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: Allen Institute for AI (AI2) Outstanding Engineer Scholarship Finalist
+      year: "2025"
+    - title: National Honorable Mention, National Center for Women & Information Technology
+      institution: Top 10% of 3,700 applicants
+      year: "2022"

@@ -2,10 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Below are Teaching Assistant roles I've held in UW CSE courses.
+description: Teaching roles I've held in UW CSE courses.
 nav: true
 nav_order: 5
 ---
+**`2026–2027:`**
+
+**AU 2026 — [CSE 446/546: Machine Learning](https://courses.cs.washington.edu/courses/cse446/26au/)**<br>
+*Head Teaching Assistant*
+
+---
+
 **`2025–2026:`**
 
 **WI 2026 — [CSE 446/546: Machine Learning](https://courses.cs.washington.edu/courses/cse446/26wi/)**

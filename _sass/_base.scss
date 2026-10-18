@@ -39,6 +39,10 @@ table.table a {
   color: var(--global-theme-color);
   font-weight: 400;
 
+  em {
+    color: inherit;
+  }
+
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
@@ -235,12 +239,23 @@ blockquote {
     font-size: 1.7rem;
 
     a {
+      .x-icon {
+        color: var(--global-text-color);
+        font-family: Arial, sans-serif;
+        font-size: 0.9em;
+        transition: color 0.2s ease-in-out;
+      }
+
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
+        .x-icon {
+          color: var(--global-theme-color);
+        }
+
         i::before {
           color: var(--global-theme-color);
         }
@@ -309,12 +324,23 @@ blockquote {
     font-size: 2rem;
 
     a {
+      .x-icon {
+        color: var(--global-text-color);
+        font-family: Arial, sans-serif;
+        font-size: 0.9em;
+        transition: color 0.2s ease-in-out;
+      }
+
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
+        .x-icon {
+          color: var(--global-theme-color);
+        }
+
         i::before {
           color: var(--global-theme-color);
         }
