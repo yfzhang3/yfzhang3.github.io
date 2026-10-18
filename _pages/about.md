@@ -15,7 +15,7 @@ profile:
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # social links already appear in the navbar
 ---
 Hello, I'm Yufei! I am an MS Computer Science student at the [University of Washington](https://www.cs.washington.edu/), where I also completed my BS in Computer Science in 2025.
 
