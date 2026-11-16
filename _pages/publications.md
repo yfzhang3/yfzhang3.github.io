@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Research on language models, generation diversity, and machine learning.
+description:
 nav: true
 nav_order: 1
 ---

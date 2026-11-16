@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching roles I've held in UW CSE courses.
+description:
 nav: true
 nav_order: 5
 ---
